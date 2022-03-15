@@ -1,0 +1,6 @@
+./.eslintrc.js
+babel.baseApi.js
+jest.baseApi.js
+
+/src/shims-vue.d.ts
+/src/shims-vuetify.d.ts
